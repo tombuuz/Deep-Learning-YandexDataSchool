@@ -8,11 +8,11 @@ Original repository without hws: https://github.com/yandexdataschool/Practical_D
 
 Topics: 
 Backpropogation
- / Derivatives
- / Convolutional Networks
- / Fine tuning
- / NLP
- / Attention
- / Generative models
- / Reinforcement Learning
- / Speech recognition
+ - Derivatives  
+ - Convolutional1 Networks  
+ - Fine tuning  
+ - NLP  
+ - Attention  
+ - Generative models  
+ - Reinforcement Learning  
+ - Speech recognition  
